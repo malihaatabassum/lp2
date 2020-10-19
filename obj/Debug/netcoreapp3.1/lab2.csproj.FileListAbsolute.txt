@@ -1,0 +1,13 @@
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csprojAssemblyReference.cache
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+C:\Users\Mehreen\Documents\c#\1st\lab2\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
